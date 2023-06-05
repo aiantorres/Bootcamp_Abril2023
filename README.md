@@ -6,8 +6,9 @@
     <img width="250" height="250" src="https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg" alt="pyds">
 </div>
 
-
+ 
 > Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 2023.
+
 
 
 ## Lista de Tareas
@@ -38,25 +39,22 @@
 </details>
 
 <!-- Para comentar texto usamos esto -->
-## Algebra Lineal 
-<details><summary>Indice</summary>
-<p>
+## Algebra Lineal :mortar_board:
+---
+Indice
 
 - [x] Determinantes 
 - [x] Inversa de Matrices
 - [x] Sistema de Ecuaciones
-</p>
-</details>
+
 
 ## Estadística
-<details><summary>Indice</summary>
-<p>
+---
+Indice
 
-* [ ] Estadística Descriptiva
-* [ ] Series Cronológicas
-* [ ] Intervalos de Confianza
-</p>
-</details>
+* [ ] Estadística Descriptiva :construction_worker:
+* [ ] Series Cronológicas :crystal_ball:
+* [ ] Intervalos de Confianza :smirk:
 
 ## Machine Learning
 ### Validación de Modelos
@@ -74,8 +72,8 @@ Algunos modelos de clasificación son:
 #### Modelos de Regresion
 Algunos modelos de regresión son:
 * Regresión Lineal
-* Lasso
-* Ridge
+    * Lasso
+    * Ridge
 * XGBoost
 
 #### Optimización de HiperParametros
